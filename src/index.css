@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.color-green{
+  color: green;
+}
+
+.color-red{
+  color: red;
+}
+
+.jumbotron{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.users-list{
+  height: 500px;
+  overflow: auto;
+}
+
+.hide{
+  visibility:hidden;
+}
+
+.image-style{
+  max-height:512px;
+}
+
+.form-group{
+  text-align: left;
+}
+
+.table{
+  align-self: baseline;
+}
